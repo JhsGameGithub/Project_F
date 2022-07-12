@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Furrade",
+			"Path": "E:\\Project_F\\Furrade\\Source\\Furrade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FurradeEditor",
+			"Path": "E:\\Project_F\\Furrade\\Source\\FurradeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

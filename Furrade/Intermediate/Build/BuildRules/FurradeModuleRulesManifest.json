@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Project_F\\Furrade\\Source\\Furrade\\Furrade.Build.cs",
+		"E:\\Project_F\\Furrade\\Source\\Furrade.Target.cs",
+		"E:\\Project_F\\Furrade\\Source\\FurradeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

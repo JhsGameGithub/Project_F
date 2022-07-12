@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Furrade.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Furrade.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FurradeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Furrade">
+      <UniqueIdentifier>{851B381B-C27D-39B7-A22D-F36780EFB83C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Furrade\Furrade.Build.cs">
+      <Filter>Source\Furrade</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Furrade\Furrade.cpp">
+      <Filter>Source\Furrade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furrade\Furrade.h">
+      <Filter>Source\Furrade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furrade\FurradeCharacter.cpp">
+      <Filter>Source\Furrade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furrade\FurradeCharacter.h">
+      <Filter>Source\Furrade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furrade\FurradeGameMode.cpp">
+      <Filter>Source\Furrade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furrade\FurradeGameMode.h">
+      <Filter>Source\Furrade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furrade\FurradePlayerController.cpp">
+      <Filter>Source\Furrade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furrade\FurradePlayerController.h">
+      <Filter>Source\Furrade</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

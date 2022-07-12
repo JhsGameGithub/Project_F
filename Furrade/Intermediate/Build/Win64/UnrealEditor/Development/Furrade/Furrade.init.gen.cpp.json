@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\project_f\\furrade\\intermediate\\build\\win64\\unrealeditor\\inc\\furrade\\furrade.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project_f\\furrade\\intermediate\\build\\win64\\furradeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\project_f\\furrade\\intermediate\\build\\win64\\unrealeditor\\development\\furrade\\definitions.furrade.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

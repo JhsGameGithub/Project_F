@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\project_f\\furrade\\intermediate\\build\\win64\\unrealeditor\\inc\\furrade\\furradeplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project_f\\furrade\\intermediate\\build\\win64\\furradeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\project_f\\furrade\\intermediate\\build\\win64\\unrealeditor\\development\\furrade\\definitions.furrade.h",
+            "e:\\project_f\\furrade\\source\\furrade\\furradeplayercontroller.h",
+            "e:\\project_f\\furrade\\intermediate\\build\\win64\\unrealeditor\\inc\\furrade\\furradeplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
